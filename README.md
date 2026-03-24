@@ -21,3 +21,7 @@ This project demonstrates how to create an Amazon S3 bucket and upload a file us
 
 ## Outcome
 Successfully created a cloud storage bucket and uploaded a file, confirming that the object is accessible within the S3 environment.
+## Screenshots
+
+### S3 Bucket Created
+![S3 Bucket](s3-bucket-list.png)
