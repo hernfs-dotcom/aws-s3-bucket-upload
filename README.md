@@ -24,6 +24,11 @@ Successfully created a cloud storage bucket and uploaded a file, confirming that
 ## Screenshots
 
 ### S3 Bucket Created
+I created a new S3 bucket using the AWS Management Console with a globally unique name.
+
 ![S3 Bucket](s3-bucket-list.png)
+
 ### File Uploaded to S3
+I uploaded an image file to the S3 bucket and verified that the object appears in the bucket.
+
 ![S3 Upload](s3-upload.png)
