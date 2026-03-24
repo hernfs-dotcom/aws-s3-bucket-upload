@@ -25,3 +25,4 @@ Successfully created a cloud storage bucket and uploaded a file, confirming that
 
 ### S3 Bucket Created
 ![S3 Bucket](s3-bucket-list.png)
+s3-upload.png
