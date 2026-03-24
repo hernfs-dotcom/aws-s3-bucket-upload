@@ -32,3 +32,12 @@ I created a new S3 bucket using the AWS Management Console with a globally uniqu
 I uploaded an image file to the S3 bucket and verified that the object appears in the bucket.
 
 ![S3 Upload](s3-upload.png)
+### Object URL
+I located the object URL for the uploaded file in Amazon S3.
+
+![Object URL](objecturl.png)
+
+### Access Control Test
+I tested the object URL in the browser. The XML access denied response confirmed that Block Public Access was enabled and the object was not publicly accessible.
+
+![Access Denied XML](xml.file.does.not.appear.png)
