@@ -34,8 +34,7 @@ I uploaded an image file to the S3 bucket and verified that the object appears i
 ![S3 Upload](s3-upload.png)
 ### Object URL
 I located the object URL for the uploaded file in Amazon S3.
-### Object URL
-I located the object URL for the uploaded file in Amazon S3.
+
 
 ![Object URL](objecturl.png)
 
